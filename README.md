@@ -21,13 +21,3 @@
 -->
 <hr>
 <p align="left">
-📫 How to reach me:   
-
-<a href="https://twitter.com/Ayush00257634">
-  <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
-</a>
-<a href="https://t.me/noicename">
-  <img align="center" alt="proffapt's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
-</a>
-
- 
