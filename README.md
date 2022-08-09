@@ -13,9 +13,6 @@
       <a href="https://github.com/proffapt">
       <img height="210em" width="480em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayush0-8Biswas&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" align="right"/>
       </a>
-  - Tools
-    - Git: Intermediate
-    - Vi/Vim/NeoVim: Intermediate
 
 <!--
 <p align = "center">
