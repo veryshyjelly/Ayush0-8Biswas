@@ -9,7 +9,6 @@
     - Noob : Java
     - Beginner : Javascript, Julia
     - Intermediate : C/C++, Golang, Python
-    - Proficient : None
     
 
       <a href="https://github.com/Ayush0-8Biswas">
